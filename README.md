@@ -18,9 +18,9 @@
 - 🎓 Pursuing **BCA at Thames International College**  
 - 💡 Tagline: *"building things mostly for fun."*
 - 🔭 Currently building: **2D Games, Sentiment Analysis Models & Automation Tools**[cite: 3]
-- 🌱 Practice & Learning: **Python (GeeksforGeeks, freeCodeCamp, HackerRank), C, and Godot Engine**  
+- 🌱 Practice & Learning: **Python and Godot Engine**  
 - 👯 Looking to collaborate on: **Game Development, Creative Coding, and Machine Learning Projects**  
-- 💬 Ask me about: **Python | C | Godot | Machine Learning | Web Scraping**[cite: 3]
+- 💬 Ask me about: **Python | Godot | Machine Learning | Web Scraping**[cite: 3]
 - 🎯 Hobbies & Interests: **Game Dev 🎮 | Digital Art 🎨 | Coding 💻**  
 
 ---
